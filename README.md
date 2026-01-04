@@ -1,1 +1,1 @@
-# portfolio-simple-website
+# A personal portfolio website built using HTML and basic CSS, featuring a Home page and a Contact page. The project focuses on clean layout, simple styling, and practicing fundamental web development concepts.
